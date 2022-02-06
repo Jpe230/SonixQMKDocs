@@ -35,4 +35,4 @@ We currently support the following MCUs:
   | SONIX   | SN32F248B  | No              | ARM Cortex-M0 | LQFP 64 pins |
   | SONIX   | SN32F268   | No              | ARM Cortex-M0 | LQFP 48 pins |
 
-To see a list of compatible keyboards click [here]({% link compatible_kb.md %})
+To see a list of compatible keyboards click [here](compatible_kb.md)
