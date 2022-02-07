@@ -18,21 +18,6 @@ This project is still in development, mantainted purely on volunteers. We recomm
 
 We currently support the following MCUs:
 
-
-  | Company | MCU        | Rebrand company | Type          | Pin          |
-  | ------- | ---------- | --------------- | ------------- | ------------ |
-  | eVision | VS11K09A   | SONIX           | ARM Cortex-M0 | LQFP 64 pins |
-  | eVision | VS11K09A-1 | SONIX           | ARM Cortex-M0 | LQFP 64 pins |
-  | eVision | VS11K13A   | SONIX           | ARM Cortex-M0 | LQFP 48 pins |
-  | eVision | VS11K15A   | SONIX           | ARM Cortex-M0 | LQFP 48 pins |
-  | eVision | VS11K16A   | SONIX           | ARM Cortex-M0 | LQFP 48 pins |
-  | eVision | VS11K17A   | SONIX           | ARM Cortex-M0 | LQFP 48 pins |
-  | eVision | VS11K20A   | SONIX           | ARM Cortex-M0 | LQFP 48 pins |
-  | HFD     | HFD2201KBA | SONIX           | ARM Cortex-M0 | LQFP 64 pins |
-  | HFD     | HFD48KP500 | SONIX           | ARM Cortex-M0 | LQFP 48 pins |
-  | HFD     | HFD64KG800 | SONIX           | ARM Cortex-M0 | LQFP 64 pins |
-  | SONIX   | SN32F248   | No              | ARM Cortex-M0 | LQFP 64 pins |
-  | SONIX   | SN32F248B  | No              | ARM Cortex-M0 | LQFP 64 pins |
-  | SONIX   | SN32F268   | No              | ARM Cortex-M0 | LQFP 48 pins |
+{% include table.html data=site.data.mcus %}
 
 To see a list of compatible keyboards click [here]({{site.baseurl}}/compatible_kb)
